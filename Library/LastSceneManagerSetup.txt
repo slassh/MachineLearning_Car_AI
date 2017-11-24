@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/car_IA_track.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/GameScene_SCE.unity
+  isLoaded: 1
+  isActive: 0
